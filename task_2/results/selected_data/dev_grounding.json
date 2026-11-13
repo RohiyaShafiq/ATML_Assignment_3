@@ -1,0 +1,1006 @@
+[
+ {
+  "pair_id": "dev_pres_00000",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "pizza",
+  "question": "Does this image contain a pizza?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 166037,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 136227,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      150538.1027
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00001",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "donut",
+  "question": "Does this image contain a donut?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 234387,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      2581.7809499999994
+     ],
+     [
+      0,
+      2404.3854000000015
+     ],
+     [
+      0,
+      2704.92165
+     ],
+     [
+      0,
+      450.71889999999945
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 207491,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00002",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "bottle",
+  "question": "Does this image contain a bottle?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 193021,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      1072.824000000001
+     ],
+     [
+      0,
+      1254.6953499999977
+     ],
+     [
+      0,
+      1129.5631500000009
+     ],
+     [
+      0,
+      52.01384999999975
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 314200,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00003",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "bench",
+  "question": "Does this image contain a bench?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 227049,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      912.1300000000001
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 87875,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00004",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "hot dog",
+  "question": "Does this image contain a hot dog?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 105220,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 398727,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      3293.058500000001
+     ],
+     [
+      0,
+      2600.4981500000004
+     ],
+     [
+      0,
+      5442.134899999999
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00005",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "chair",
+  "question": "Does this image contain a chair?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 326550,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 577030,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      4686.615549999998
+     ],
+     [
+      0,
+      4051.2640500000016
+     ],
+     [
+      0,
+      9403.375399999999
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00006",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "cow",
+  "question": "Does this image contain a cow?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 303215,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 315062,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      32224.03265
+     ],
+     [
+      0,
+      29047.843000000004
+     ],
+     [
+      0,
+      6727.49285
+     ],
+     [
+      0,
+      4796.887650000002
+     ],
+     [
+      0,
+      10073.370950000006
+     ],
+     [
+      0,
+      5467.4344
+     ],
+     [
+      0,
+      5139.7181
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00007",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "cat",
+  "question": "Does this image contain a cat?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 66556,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      49375.53835000001
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 511398,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00008",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "toaster",
+  "question": "Does this image contain a toaster?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 50609,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      590.86605
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 354540,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00009",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "parking meter",
+  "question": "Does this image contain a parking meter?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 6213,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 502397,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      33458.3664
+     ],
+     [
+      0,
+      692.6741999999998
+     ],
+     [
+      0,
+      85.9873999999999
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00010",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "stop sign",
+  "question": "Does this image contain a stop sign?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 98048,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 453870,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      6928.00675
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_pres_00011",
+  "suite": "grounding",
+  "qtype": "presence",
+  "category": "suitcase",
+  "question": "Does this image contain a suitcase?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 102978,
+    "target": "no",
+    "canonical": "no",
+    "answers": null,
+    "evidence": []
+   },
+   {
+    "qid": null,
+    "image_id": 320482,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      462.34965000000034
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00000",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "apple",
+  "question": "How many apples can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 578203,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      33298.729400000004
+     ],
+     [
+      0,
+      32147.27925
+     ],
+     [
+      0,
+      6312.251650000001
+     ],
+     [
+      0,
+      5241.354550000003
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 575916,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      10757.305849999999
+     ],
+     [
+      0,
+      11389.5
+     ],
+     [
+      0,
+      1040.4328499999992
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00001",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "spoon",
+  "question": "How many spoons can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 420610,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      444.86145000000005
+     ],
+     [
+      0,
+      1128.4562000000008
+     ],
+     [
+      0,
+      1850.6507000000013
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 251801,
+    "target": "2",
+    "canonical": "2",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      3065.1243999999997
+     ],
+     [
+      0,
+      3286.2614999999996
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00002",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "suitcase",
+  "question": "How many suitcases can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 437351,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      23921.470450000008
+     ],
+     [
+      0,
+      15508.55535
+     ],
+     [
+      0,
+      19919.2714
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 212116,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      1875.2327500000001
+     ],
+     [
+      0,
+      1797.8299499999996
+     ],
+     [
+      0,
+      454.82965000000013
+     ],
+     [
+      0,
+      892.4663499999996
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00003",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "airplane",
+  "question": "How many airplanes can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 38929,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      47687.49790000001
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 353964,
+    "target": "2",
+    "canonical": "2",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      6374.7448
+     ],
+     [
+      0,
+      4335.042949999999
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00004",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "backpack",
+  "question": "How many backpacks can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 199387,
+    "target": "2",
+    "canonical": "2",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      655.5403999999999
+     ],
+     [
+      0,
+      1659.3258999999994
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 466818,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      4864.7198
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00005",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "book",
+  "question": "How many books can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 121112,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      4443.5291499999985
+     ],
+     [
+      0,
+      1258.7941
+     ],
+     [
+      0,
+      1862.7927500000003
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 147545,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      593.8055999999999
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00006",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "teddy bear",
+  "question": "How many teddy bears can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 346596,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      1989.5381500000003
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 776,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      65916.2742
+     ],
+     [
+      0,
+      84877.2128
+     ],
+     [
+      0,
+      79751.65850000002
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00007",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "carrot",
+  "question": "How many carrots can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 152776,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      3558.073000000001
+     ],
+     [
+      0,
+      5608.28985
+     ],
+     [
+      0,
+      3177.1294000000007
+     ],
+     [
+      0,
+      1254.5049500000002
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 167131,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      33691.864449999994
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00008",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "bus",
+  "question": "How many buses can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 480944,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      2177.8038999999985
+     ],
+     [
+      0,
+      769.1817999999998
+     ],
+     [
+      0,
+      829.2671500000012
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 485887,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      112827.32609999999
+     ],
+     [
+      0,
+      6072.327400000003
+     ],
+     [
+      0,
+      2985.231099999999
+     ],
+     [
+      0,
+      860.3473000000001
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00009",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "parking meter",
+  "question": "How many parking meters can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 133636,
+    "target": "2",
+    "canonical": "2",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      24146.3844
+     ],
+     [
+      0,
+      52337.6607
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 556616,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      30649.374999999996
+     ],
+     [
+      0,
+      1979.3465999999999
+     ],
+     [
+      0,
+      480.7048499999995
+     ],
+     [
+      0,
+      5259.502150000002
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00010",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "orange",
+  "question": "How many oranges can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 494580,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      3910.525699999999
+     ],
+     [
+      0,
+      4032.013600000001
+     ],
+     [
+      0,
+      3447.630800000001
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 37638,
+    "target": "1",
+    "canonical": "1",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      22726.434900000015
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "dev_count_00011",
+  "suite": "grounding",
+  "qtype": "counting",
+  "category": "broccoli",
+  "question": "How many broccoli can you see?",
+  "items": [
+   {
+    "qid": null,
+    "image_id": 543762,
+    "target": "4",
+    "canonical": "4",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      7454.261
+     ],
+     [
+      0,
+      5171.56635
+     ],
+     [
+      0,
+      4957.70855
+     ],
+     [
+      0,
+      6242.1262000000015
+     ]
+    ]
+   },
+   {
+    "qid": null,
+    "image_id": 273317,
+    "target": "3",
+    "canonical": "3",
+    "answers": null,
+    "evidence": [
+     [
+      0,
+      4710.0688
+     ],
+     [
+      0,
+      1737.4988500000002
+     ],
+     [
+      0,
+      2608.4762499999997
+     ]
+    ]
+   }
+  ]
+ }
+]

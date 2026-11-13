@@ -1,0 +1,35 @@
+{
+ "stages": {
+  "1": {
+   "train_seconds": 2858.603679895401,
+   "peak_mem_gb": 2.5186777114868164,
+   "trainable_params": 1837056,
+   "trainable_breakdown": {
+    "connector": 1837056,
+    "lora": 0,
+    "frozen_lm": 596049920
+   }
+  },
+  "2": {
+   "train_seconds": 2281.50359249115,
+   "peak_mem_gb": 2.512955665588379,
+   "trainable_params": 6424576,
+   "trainable_breakdown": {
+    "connector": 1837056,
+    "lora": 4587520,
+    "frozen_lm": 596049920
+   }
+  },
+  "3": {
+   "train_seconds": 1150.3044033050537,
+   "peak_mem_gb": 2.4464821815490723,
+   "trainable_params": 6424576,
+   "trainable_breakdown": {
+    "connector": 1837056,
+    "lora": 4587520,
+    "frozen_lm": 596049920
+   }
+  }
+ },
+ "dev_eval_seconds": 114.64013981819153
+}

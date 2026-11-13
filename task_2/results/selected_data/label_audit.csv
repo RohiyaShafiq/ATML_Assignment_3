@@ -1,0 +1,199 @@
+group,pair_id,qtype,category,question,image_id,target,"evidence(iscrowd,area)"
+train_presence,tr_pres_01376,presence,elephant,Does this image contain an elephant?,542343,yes,"[[0, 23270.08065]]"
+train_presence,tr_pres_01376,presence,elephant,Does this image contain an elephant?,561453,no,[]
+train_presence,tr_pres_00050,presence,skateboard,Does this image contain a skateboard?,74842,yes,"[[0, 1895.8133999999998]]"
+train_presence,tr_pres_00050,presence,skateboard,Does this image contain a skateboard?,444560,no,[]
+train_presence,tr_pres_00561,presence,cow,Does this image contain a cow?,51720,no,[]
+train_presence,tr_pres_00561,presence,cow,Does this image contain a cow?,214430,yes,"[[0, 68863.01565000002], [0, 28029.52715000001], [0, 2426.759250000001], [0, 381.36669999999947], [0, 461.70454999999987], [0, 90.53289999999997]]"
+train_presence,tr_pres_00248,presence,stop sign,Does this image contain a stop sign?,429727,yes,"[[0, 81104.81315]]"
+train_presence,tr_pres_00248,presence,stop sign,Does this image contain a stop sign?,18555,no,[]
+train_presence,tr_pres_00053,presence,potted plant,Does this image contain a potted plant?,308468,no,[]
+train_presence,tr_pres_00053,presence,potted plant,Does this image contain a potted plant?,90964,yes,"[[0, 14686.470399999997], [0, 12892.011400000003]]"
+train_presence,tr_pres_00297,presence,microwave,Does this image contain a microwave?,311895,yes,"[[0, 32959.2429]]"
+train_presence,tr_pres_00297,presence,microwave,Does this image contain a microwave?,54262,no,[]
+train_presence,tr_pres_01491,presence,dining table,Does this image contain a dining table?,336291,no,[]
+train_presence,tr_pres_01491,presence,dining table,Does this image contain a dining table?,400763,yes,"[[0, 1755.1602500000006]]"
+train_presence,tr_pres_00026,presence,surfboard,Does this image contain a surfboard?,233497,yes,"[[0, 15250.89495]]"
+train_presence,tr_pres_00026,presence,surfboard,Does this image contain a surfboard?,95950,no,[]
+train_presence,tr_pres_00769,presence,broccoli,Does this image contain a broccoli?,489140,yes,"[[0, 10196.317950000006]]"
+train_presence,tr_pres_00769,presence,broccoli,Does this image contain a broccoli?,191957,no,[]
+train_presence,tr_pres_00999,presence,carrot,Does this image contain a carrot?,527344,yes,"[[0, 3001.2526499999985], [0, 8359.3126], [0, 3769.1740999999984], [0, 3724.3450000000034], [0, 427.2363]]"
+train_presence,tr_pres_00999,presence,carrot,Does this image contain a carrot?,20929,no,[]
+train_presence,tr_pres_01399,presence,clock,Does this image contain a clock?,541171,no,[]
+train_presence,tr_pres_01399,presence,clock,Does this image contain a clock?,363957,yes,"[[0, 2099.5001500000003]]"
+train_presence,tr_pres_01249,presence,scissors,Does this image contain a scissors?,223497,no,[]
+train_presence,tr_pres_01249,presence,scissors,Does this image contain a scissors?,52030,yes,"[[0, 1630.5517499999983]]"
+train_presence,tr_pres_00109,presence,tv,Does this image contain a tv?,472620,yes,"[[0, 3996.3579], [0, 12154.6922]]"
+train_presence,tr_pres_00109,presence,tv,Does this image contain a tv?,371360,no,[]
+train_presence,tr_pres_00802,presence,remote,Does this image contain a remote?,125652,yes,"[[0, 1335.087149999999]]"
+train_presence,tr_pres_00802,presence,remote,Does this image contain a remote?,327132,no,[]
+train_presence,tr_pres_01417,presence,truck,Does this image contain a truck?,392358,yes,"[[0, 572.0440000000002]]"
+train_presence,tr_pres_01417,presence,truck,Does this image contain a truck?,168291,no,[]
+train_presence,tr_pres_00527,presence,fork,Does this image contain a fork?,371997,no,[]
+train_presence,tr_pres_00527,presence,fork,Does this image contain a fork?,172121,yes,"[[0, 772.5343499999998]]"
+train_presence,tr_pres_01049,presence,umbrella,Does this image contain an umbrella?,62292,no,[]
+train_presence,tr_pres_01049,presence,umbrella,Does this image contain an umbrella?,409628,yes,"[[0, 9810.858350000002], [0, 13625.49685]]"
+train_presence,tr_pres_01421,presence,fire hydrant,Does this image contain a fire hydrant?,465618,no,[]
+train_presence,tr_pres_01421,presence,fire hydrant,Does this image contain a fire hydrant?,357994,yes,"[[0, 28749.470699999998]]"
+train_presence,tr_pres_01254,presence,bottle,Does this image contain a bottle?,470771,no,[]
+train_presence,tr_pres_01254,presence,bottle,Does this image contain a bottle?,162735,yes,"[[0, 10240.297099999996]]"
+train_presence,tr_pres_00058,presence,couch,Does this image contain a couch?,140320,yes,"[[0, 12951.231950000005], [0, 13543.672549999994]]"
+train_presence,tr_pres_00058,presence,couch,Does this image contain a couch?,8138,no,[]
+train_presence,tr_pres_01274,presence,car,Does this image contain a car?,369443,no,[]
+train_presence,tr_pres_01274,presence,car,Does this image contain a car?,568725,yes,"[[0, 84834.3028], [0, 47414.22944999999]]"
+train_presence,tr_pres_01472,presence,baseball bat,Does this image contain a baseball bat?,121363,no,[]
+train_presence,tr_pres_01472,presence,baseball bat,Does this image contain a baseball bat?,149233,yes,"[[0, 9156.978499999992]]"
+train_presence,tr_pres_00315,presence,broccoli,Does this image contain a broccoli?,16701,no,[]
+train_presence,tr_pres_00315,presence,broccoli,Does this image contain a broccoli?,300928,yes,"[[0, 4249.514449999998], [0, 4584.174050000001], [0, 2799.6049500000013], [0, 2071.3990500000004], [0, 1022.3729500000004]]"
+train_presence,tr_pres_01267,presence,apple,Does this image contain an apple?,423585,no,[]
+train_presence,tr_pres_01267,presence,apple,Does this image contain an apple?,51021,yes,"[[0, 874.7168999999996]]"
+train_presence,tr_pres_00837,presence,banana,Does this image contain a banana?,103902,no,[]
+train_presence,tr_pres_00837,presence,banana,Does this image contain a banana?,58838,yes,"[[0, 18698.4797], [0, 10115.756749999997], [0, 12331.754700000001], [0, 281.74124999999987], [0, 32907.66575000001], [0, 4402.22155], [0, 865.8082500000005], [0, 31313.05519999999]]"
+train_counting,tr_count_01271,counting,fire hydrant,How many fire hydrants can you see?,60387,2,"[[0, 5734.231499999999], [0, 733.8609999999994]]"
+train_counting,tr_count_01271,counting,fire hydrant,How many fire hydrants can you see?,120827,4,"[[0, 10440.950499999997], [0, 9297.744900000005], [0, 2723.0066499999994], [0, 12574.603700000003]]"
+train_counting,tr_count_00382,counting,hot dog,How many hot dogs can you see?,445960,2,"[[0, 28236.11185], [0, 35605.8847]]"
+train_counting,tr_count_00382,counting,hot dog,How many hot dogs can you see?,408946,1,"[[0, 23309.166649999992]]"
+train_counting,tr_count_00915,counting,handbag,How many handbags can you see?,438196,3,"[[0, 949.8944999999998], [0, 616.0335500000004], [0, 738.4576000000008]]"
+train_counting,tr_count_00915,counting,handbag,How many handbags can you see?,366795,2,"[[0, 29783.579400000006], [0, 14226.262949999993]]"
+train_counting,tr_count_00180,counting,tie,How many ties can you see?,38606,1,"[[0, 5055.051149999996]]"
+train_counting,tr_count_00180,counting,tie,How many ties can you see?,284468,3,"[[0, 2919.2806499999997], [0, 2926.0319000000004], [0, 2229.168499999999]]"
+train_counting,tr_count_00949,counting,skis,How many skis can you see?,508299,4,"[[0, 1530.9316499999998], [0, 550.6323999999998], [0, 613.6748499999997], [0, 1161.9402499999949]]"
+train_counting,tr_count_00949,counting,skis,How many skis can you see?,553777,3,"[[0, 937.7897999999997], [0, 1721.4913500000007], [0, 1050.0430499999995]]"
+train_counting,tr_count_00247,counting,bed,How many beds can you see?,352511,2,"[[0, 5198.563149999999], [0, 130007.03235000002]]"
+train_counting,tr_count_00247,counting,bed,How many beds can you see?,382287,4,"[[0, 13278.692950000002], [0, 13967.206999999997], [0, 13183.071650000002], [0, 14225.41195]]"
+train_counting,tr_count_01036,counting,fire hydrant,How many fire hydrants can you see?,134951,1,"[[0, 57612.96825000001]]"
+train_counting,tr_count_01036,counting,fire hydrant,How many fire hydrants can you see?,458751,4,"[[0, 16687.808200000003], [0, 17611.85165], [0, 16340.218549999998], [0, 16238.20485]]"
+train_counting,tr_count_01318,counting,cow,How many cows can you see?,98131,2,"[[0, 46008.093], [0, 4426.8213000000005]]"
+train_counting,tr_count_01318,counting,cow,How many cows can you see?,275723,3,"[[0, 4367.905700000001], [0, 1762.8366500000002], [0, 3370.4885500000005]]"
+train_counting,tr_count_00183,counting,bird,How many birds can you see?,258934,4,"[[0, 2344.7000500000004], [0, 2584.995849999999], [0, 5876.28495], [0, 2580.8785500000004]]"
+train_counting,tr_count_00183,counting,bird,How many birds can you see?,107766,3,"[[0, 1501.2942999999998], [0, 1672.6852499999989], [0, 1315.7971499999994]]"
+train_counting,tr_count_00599,counting,motorcycle,How many motorcycles can you see?,298182,4,"[[0, 32194.341549999997], [0, 7822.320249999997], [0, 4404.202300000002], [0, 37015.753650000006]]"
+train_counting,tr_count_00599,counting,motorcycle,How many motorcycles can you see?,334752,3,"[[0, 4270.008049999999], [0, 2438.6286999999998], [0, 2851.0765500000007]]"
+train_counting,tr_count_00013,counting,oven,How many ovens can you see?,286876,2,"[[0, 5086.614000000002], [0, 3118.76695]]"
+train_counting,tr_count_00013,counting,oven,How many ovens can you see?,286382,3,"[[0, 1828.7708500000006], [0, 953.2245499999992], [0, 2215.7466999999997]]"
+train_counting,tr_count_01288,counting,sports ball,How many sports balls can you see?,155705,1,"[[0, 674.0693500000002]]"
+train_counting,tr_count_01288,counting,sports ball,How many sports balls can you see?,159424,2,"[[0, 1023.1371999999998], [0, 913.1182999999997]]"
+train_counting,tr_count_01260,counting,tie,How many ties can you see?,284468,3,"[[0, 2919.2806499999997], [0, 2926.0319000000004], [0, 2229.168499999999]]"
+train_counting,tr_count_01260,counting,tie,How many ties can you see?,505700,1,"[[0, 1331.3446500000005]]"
+train_counting,tr_count_01453,counting,umbrella,How many umbrellas can you see?,446827,1,"[[0, 8318.020349999999]]"
+train_counting,tr_count_01453,counting,umbrella,How many umbrellas can you see?,39509,2,"[[0, 2208.7168000000006], [0, 3516.9835500000013]]"
+train_counting,tr_count_00241,counting,hot dog,How many hot dogs can you see?,257073,1,"[[0, 37507.455850000006]]"
+train_counting,tr_count_00241,counting,hot dog,How many hot dogs can you see?,127316,2,"[[0, 80023.04994999999], [0, 62677.4759]]"
+train_counting,tr_count_01373,counting,dog,How many dogs can you see?,174427,1,"[[0, 29713.30740000001]]"
+train_counting,tr_count_01373,counting,dog,How many dogs can you see?,269432,2,"[[0, 7858.0973], [0, 5384.442100000002]]"
+train_counting,tr_count_00846,counting,sandwich,How many sandwiches can you see?,248446,1,"[[0, 45635.68275]]"
+train_counting,tr_count_00846,counting,sandwich,How many sandwiches can you see?,197289,4,"[[0, 26507.827150000005], [0, 55315.621799999986], [0, 28817.828649999996], [0, 39923.09145]]"
+train_counting,tr_count_00417,counting,fire hydrant,How many fire hydrants can you see?,60387,2,"[[0, 5734.231499999999], [0, 733.8609999999994]]"
+train_counting,tr_count_00417,counting,fire hydrant,How many fire hydrants can you see?,120827,4,"[[0, 10440.950499999997], [0, 9297.744900000005], [0, 2723.0066499999994], [0, 12574.603700000003]]"
+train_counting,tr_count_00867,counting,umbrella,How many umbrellas can you see?,354070,2,"[[0, 3575.360050000003], [0, 8741.634649999998]]"
+train_counting,tr_count_00867,counting,umbrella,How many umbrellas can you see?,566568,3,"[[0, 13372.855899999997], [0, 8023.818749999998], [0, 5905.122750000001]]"
+train_counting,tr_count_01169,counting,sink,How many sinks can you see?,287541,4,"[[0, 50208.44109999999], [0, 27760.98570000001], [0, 45872.1307], [0, 15911.567400000009]]"
+train_counting,tr_count_01169,counting,sink,How many sinks can you see?,202989,2,"[[0, 1906.0838000000003], [0, 3976.9058499999996]]"
+train_counting,tr_count_01056,counting,traffic light,How many traffic lights can you see?,435750,3,"[[0, 2655.9712500000005], [0, 428.3715499999999], [0, 546.2206999999997]]"
+train_counting,tr_count_01056,counting,traffic light,How many traffic lights can you see?,384659,4,"[[0, 5520.936599999999], [0, 618.9746499999997], [0, 1474.0596999999982], [0, 685.0490500000001]]"
+train_counting,tr_count_00350,counting,giraffe,How many giraffes can you see?,386695,1,"[[0, 56395.76609999999]]"
+train_counting,tr_count_00350,counting,giraffe,How many giraffes can you see?,244418,3,"[[0, 21739.03465], [0, 7335.6315], [0, 899.4375000000005]]"
+train_counting,tr_count_01323,counting,microwave,How many microwaves can you see?,326445,3,"[[0, 34603.1517], [0, 18211.972149999998], [0, 39046.06765]]"
+train_counting,tr_count_01323,counting,microwave,How many microwaves can you see?,476191,2,"[[0, 1225.9479999999992], [0, 9290.02195]]"
+train_counting,tr_count_01192,counting,baseball glove,How many baseball gloves can you see?,261750,4,"[[0, 876.1324500000009], [0, 1605.9660499999986], [0, 787.3480999999996], [0, 1069.1467499999997]]"
+train_counting,tr_count_01192,counting,baseball glove,How many baseball gloves can you see?,186344,3,"[[0, 1260.92785], [0, 993.37895], [0, 1038.9135499999998]]"
+train_counting,tr_count_00040,counting,motorcycle,How many motorcycles can you see?,479372,2,"[[0, 7925.233150000004], [0, 6017.741999999994]]"
+train_counting,tr_count_00040,counting,motorcycle,How many motorcycles can you see?,268065,1,"[[0, 71510.34715000002]]"
+dev_grounding,dev_pres_00003,presence,bench,Does this image contain a bench?,227049,yes,"[[0, 912.1300000000001]]"
+dev_grounding,dev_pres_00003,presence,bench,Does this image contain a bench?,87875,no,[]
+dev_grounding,dev_count_00000,counting,apple,How many apples can you see?,578203,4,"[[0, 33298.729400000004], [0, 32147.27925], [0, 6312.251650000001], [0, 5241.354550000003]]"
+dev_grounding,dev_count_00000,counting,apple,How many apples can you see?,575916,3,"[[0, 10757.305849999999], [0, 11389.5], [0, 1040.4328499999992]]"
+dev_grounding,dev_count_00001,counting,spoon,How many spoons can you see?,420610,3,"[[0, 444.86145000000005], [0, 1128.4562000000008], [0, 1850.6507000000013]]"
+dev_grounding,dev_count_00001,counting,spoon,How many spoons can you see?,251801,2,"[[0, 3065.1243999999997], [0, 3286.2614999999996]]"
+dev_grounding,dev_pres_00010,presence,stop sign,Does this image contain a stop sign?,98048,no,[]
+dev_grounding,dev_pres_00010,presence,stop sign,Does this image contain a stop sign?,453870,yes,"[[0, 6928.00675]]"
+dev_grounding,dev_pres_00000,presence,pizza,Does this image contain a pizza?,166037,no,[]
+dev_grounding,dev_pres_00000,presence,pizza,Does this image contain a pizza?,136227,yes,"[[0, 150538.1027]]"
+dev_grounding,dev_count_00003,counting,airplane,How many airplanes can you see?,38929,1,"[[0, 47687.49790000001]]"
+dev_grounding,dev_count_00003,counting,airplane,How many airplanes can you see?,353964,2,"[[0, 6374.7448], [0, 4335.042949999999]]"
+dev_grounding,dev_count_00008,counting,bus,How many buses can you see?,480944,3,"[[0, 2177.8038999999985], [0, 769.1817999999998], [0, 829.2671500000012]]"
+dev_grounding,dev_count_00008,counting,bus,How many buses can you see?,485887,4,"[[0, 112827.32609999999], [0, 6072.327400000003], [0, 2985.231099999999], [0, 860.3473000000001]]"
+dev_grounding,dev_pres_00007,presence,cat,Does this image contain a cat?,66556,yes,"[[0, 49375.53835000001]]"
+dev_grounding,dev_pres_00007,presence,cat,Does this image contain a cat?,511398,no,[]
+dev_grounding,dev_count_00010,counting,orange,How many oranges can you see?,494580,3,"[[0, 3910.525699999999], [0, 4032.013600000001], [0, 3447.630800000001]]"
+dev_grounding,dev_count_00010,counting,orange,How many oranges can you see?,37638,1,"[[0, 22726.434900000015]]"
+dev_grounding,dev_count_00011,counting,broccoli,How many broccoli can you see?,543762,4,"[[0, 7454.261], [0, 5171.56635], [0, 4957.70855], [0, 6242.1262000000015]]"
+dev_grounding,dev_count_00011,counting,broccoli,How many broccoli can you see?,273317,3,"[[0, 4710.0688], [0, 1737.4988500000002], [0, 2608.4762499999997]]"
+dev_grounding,dev_pres_00004,presence,hot dog,Does this image contain a hot dog?,105220,no,[]
+dev_grounding,dev_pres_00004,presence,hot dog,Does this image contain a hot dog?,398727,yes,"[[0, 3293.058500000001], [0, 2600.4981500000004], [0, 5442.134899999999]]"
+dev_grounding,dev_count_00009,counting,parking meter,How many parking meters can you see?,133636,2,"[[0, 24146.3844], [0, 52337.6607]]"
+dev_grounding,dev_count_00009,counting,parking meter,How many parking meters can you see?,556616,4,"[[0, 30649.374999999996], [0, 1979.3465999999999], [0, 480.7048499999995], [0, 5259.502150000002]]"
+dev_grounding,dev_count_00007,counting,carrot,How many carrots can you see?,152776,4,"[[0, 3558.073000000001], [0, 5608.28985], [0, 3177.1294000000007], [0, 1254.5049500000002]]"
+dev_grounding,dev_count_00007,counting,carrot,How many carrots can you see?,167131,1,"[[0, 33691.864449999994]]"
+dev_grounding,dev_pres_00001,presence,donut,Does this image contain a donut?,234387,yes,"[[0, 2581.7809499999994], [0, 2404.3854000000015], [0, 2704.92165], [0, 450.71889999999945]]"
+dev_grounding,dev_pres_00001,presence,donut,Does this image contain a donut?,207491,no,[]
+dev_grounding,dev_pres_00006,presence,cow,Does this image contain a cow?,303215,no,[]
+dev_grounding,dev_pres_00006,presence,cow,Does this image contain a cow?,315062,yes,"[[0, 32224.03265], [0, 29047.843000000004], [0, 6727.49285], [0, 4796.887650000002], [0, 10073.370950000006], [0, 5467.4344], [0, 5139.7181]]"
+dev_grounding,dev_pres_00009,presence,parking meter,Does this image contain a parking meter?,6213,no,[]
+dev_grounding,dev_pres_00009,presence,parking meter,Does this image contain a parking meter?,502397,yes,"[[0, 33458.3664], [0, 692.6741999999998], [0, 85.9873999999999]]"
+dev_grounding,dev_pres_00002,presence,bottle,Does this image contain a bottle?,193021,yes,"[[0, 1072.824000000001], [0, 1254.6953499999977], [0, 1129.5631500000009], [0, 52.01384999999975]]"
+dev_grounding,dev_pres_00002,presence,bottle,Does this image contain a bottle?,314200,no,[]
+dev_grounding,dev_count_00002,counting,suitcase,How many suitcases can you see?,437351,3,"[[0, 23921.470450000008], [0, 15508.55535], [0, 19919.2714]]"
+dev_grounding,dev_count_00002,counting,suitcase,How many suitcases can you see?,212116,4,"[[0, 1875.2327500000001], [0, 1797.8299499999996], [0, 454.82965000000013], [0, 892.4663499999996]]"
+dev_grounding,dev_pres_00005,presence,chair,Does this image contain a chair?,326550,no,[]
+dev_grounding,dev_pres_00005,presence,chair,Does this image contain a chair?,577030,yes,"[[0, 4686.615549999998], [0, 4051.2640500000016], [0, 9403.375399999999]]"
+dev_grounding,dev_pres_00011,presence,suitcase,Does this image contain a suitcase?,102978,no,[]
+dev_grounding,dev_pres_00011,presence,suitcase,Does this image contain a suitcase?,320482,yes,"[[0, 462.34965000000034]]"
+dev_grounding,dev_count_00006,counting,teddy bear,How many teddy bears can you see?,346596,1,"[[0, 1989.5381500000003]]"
+dev_grounding,dev_count_00006,counting,teddy bear,How many teddy bears can you see?,776,3,"[[0, 65916.2742], [0, 84877.2128], [0, 79751.65850000002]]"
+dev_grounding,dev_pres_00008,presence,toaster,Does this image contain a toaster?,50609,yes,"[[0, 590.86605]]"
+dev_grounding,dev_pres_00008,presence,toaster,Does this image contain a toaster?,354540,no,[]
+dev_grounding,dev_count_00004,counting,backpack,How many backpacks can you see?,199387,2,"[[0, 655.5403999999999], [0, 1659.3258999999994]]"
+dev_grounding,dev_count_00004,counting,backpack,How many backpacks can you see?,466818,1,"[[0, 4864.7198]]"
+dev_grounding,dev_count_00005,counting,book,How many books can you see?,121112,3,"[[0, 4443.5291499999985], [0, 1258.7941], [0, 1862.7927500000003]]"
+dev_grounding,dev_count_00005,counting,book,How many books can you see?,147545,1,"[[0, 593.8055999999999]]"
+test_grounding,test_pres_00013,presence,remote,Does this image contain a remote?,411277,yes,"[[0, 567.6346000000003], [0, 515.8959499999995]]"
+test_grounding,test_pres_00013,presence,remote,Does this image contain a remote?,197616,no,[]
+test_grounding,test_count_00019,counting,scissors,How many scissors can you see?,217760,4,"[[0, 5625.816250000001], [0, 4318.60555], [0, 3956.243100000001], [0, 6613.421600000002]]"
+test_grounding,test_count_00019,counting,scissors,How many scissors can you see?,423058,2,"[[0, 2725.654750000002], [0, 1442.1313500000028]]"
+test_grounding,test_pres_00021,presence,cat,Does this image contain a cat?,347879,yes,"[[0, 35732.148499999996]]"
+test_grounding,test_pres_00021,presence,cat,Does this image contain a cat?,51576,no,[]
+test_grounding,test_pres_00029,presence,toilet,Does this image contain a toilet?,262440,yes,"[[0, 2022.4442499999998]]"
+test_grounding,test_pres_00029,presence,toilet,Does this image contain a toilet?,412373,no,[]
+test_grounding,test_count_00016,counting,tv,How many tvs can you see?,543706,2,"[[0, 5085.443600000001], [0, 5933.885450000004]]"
+test_grounding,test_count_00016,counting,tv,How many tvs can you see?,415163,3,"[[0, 15508.757400000002], [0, 1077.1301000000014], [0, 4195.817000000001]]"
+test_grounding,test_pres_00022,presence,clock,Does this image contain a clock?,132121,no,[]
+test_grounding,test_pres_00022,presence,clock,Does this image contain a clock?,14629,yes,"[[0, 689.2951500000008]]"
+test_grounding,test_pres_00005,presence,cup,Does this image contain a cup?,280184,no,[]
+test_grounding,test_pres_00005,presence,cup,Does this image contain a cup?,433883,yes,"[[0, 411.77690000000064], [0, 226.90915000000015], [0, 990.5668], [0, 926.8378]]"
+test_grounding,test_count_00005,counting,giraffe,How many giraffes can you see?,191390,4,"[[0, 8730.9133], [0, 10294.888649999995], [0, 11571.444349999998], [0, 15670.206999999991]]"
+test_grounding,test_count_00005,counting,giraffe,How many giraffes can you see?,394611,2,"[[0, 3225.5459499999984], [0, 3836.530899999998]]"
+test_grounding,test_count_00017,counting,carrot,How many carrots can you see?,500473,1,"[[0, 11021.642649999998]]"
+test_grounding,test_count_00017,counting,carrot,How many carrots can you see?,143236,2,"[[0, 405.3177499999999], [0, 34400.101]]"
+test_grounding,test_count_00031,counting,broccoli,How many broccoli can you see?,163775,4,"[[0, 1434.3416000000007], [0, 2343.3420500000007], [0, 1689.8149000000008], [0, 965.6692000000004]]"
+test_grounding,test_count_00031,counting,broccoli,How many broccoli can you see?,453178,2,"[[0, 35305.43565], [0, 5794.366150000002]]"
+test_grounding,test_count_00007,counting,refrigerator,How many refrigerators can you see?,404191,1,"[[0, 124140.45860000003]]"
+test_grounding,test_count_00007,counting,refrigerator,How many refrigerators can you see?,547079,2,"[[0, 19959.68724999999], [0, 8789.162999999999]]"
+test_grounding,test_count_00009,counting,bottle,How many bottles can you see?,290558,1,"[[0, 4755.552350000001]]"
+test_grounding,test_count_00009,counting,bottle,How many bottles can you see?,467250,2,"[[0, 2174.44855], [0, 895.4381500000001]]"
+test_grounding,test_pres_00003,presence,microwave,Does this image contain a microwave?,79544,no,[]
+test_grounding,test_pres_00003,presence,microwave,Does this image contain a microwave?,531563,yes,"[[0, 7228.830649999999]]"
+test_grounding,test_count_00023,counting,remote,How many remotes can you see?,325351,2,"[[0, 5288.072349999997], [0, 5217.8456000000015]]"
+test_grounding,test_count_00023,counting,remote,How many remotes can you see?,115875,1,"[[0, 1387.4023499999987]]"
+test_grounding,test_count_00018,counting,dog,How many dogs can you see?,368905,2,"[[0, 21010.5991], [0, 3292.36245]]"
+test_grounding,test_count_00018,counting,dog,How many dogs can you see?,534252,4,"[[0, 35557.56285000001], [0, 11217.257249999995], [0, 23175.19875000001], [0, 9579.894999999999]]"
+test_grounding,test_pres_00025,presence,hot dog,Does this image contain a hot dog?,435682,no,[]
+test_grounding,test_pres_00025,presence,hot dog,Does this image contain a hot dog?,190391,yes,"[[0, 81881.30934999998]]"
+test_grounding,test_pres_00020,presence,cat,Does this image contain a cat?,350122,no,[]
+test_grounding,test_pres_00020,presence,cat,Does this image contain a cat?,467386,yes,"[[0, 1053.708850000001]]"
+test_grounding,test_count_00028,counting,cup,How many cups can you see?,181030,2,"[[0, 10728.571699999999], [0, 8566.989649999998]]"
+test_grounding,test_count_00028,counting,cup,How many cups can you see?,166277,3,"[[0, 17629.774750000008], [0, 26192.279099999996], [0, 7182.063399999998]]"
+test_grounding,test_count_00027,counting,potted plant,How many potted plants can you see?,411138,4,"[[0, 866.9608500000006], [0, 3366.8718500000014], [0, 981.3789999999997], [0, 1057.5441000000005]]"
+test_grounding,test_count_00027,counting,potted plant,How many potted plants can you see?,310669,2,"[[0, 3559.83535], [0, 939.3830500000001]]"
+test_grounding,test_count_00012,counting,motorcycle,How many motorcycles can you see?,487450,4,"[[0, 94705.51489999998], [0, 12179.51705], [0, 1821.8843000000006], [0, 1445.5237999999995]]"
+test_grounding,test_count_00012,counting,motorcycle,How many motorcycles can you see?,538364,1,"[[0, 31698.135850000002]]"
+test_grounding,test_pres_00004,presence,remote,Does this image contain a remote?,527885,yes,"[[0, 4022.330750000001]]"
+test_grounding,test_pres_00004,presence,remote,Does this image contain a remote?,22498,no,[]
+test_grounding,test_pres_00012,presence,cat,Does this image contain a cat?,579003,no,[]
+test_grounding,test_pres_00012,presence,cat,Does this image contain a cat?,552395,yes,"[[0, 6576.69345]]"
+test_grounding,test_count_00004,counting,cow,How many cows can you see?,552532,2,"[[0, 27554.410099999997], [0, 28925.193300000014]]"
+test_grounding,test_count_00004,counting,cow,How many cows can you see?,270165,1,"[[0, 32934.216199999995]]"
+test_grounding,test_pres_00027,presence,keyboard,Does this image contain a keyboard?,565353,yes,"[[0, 9989.6266]]"
+test_grounding,test_pres_00027,presence,keyboard,Does this image contain a keyboard?,510095,no,[]
+test_grounding,test_count_00000,counting,umbrella,How many umbrellas can you see?,355342,4,"[[0, 18733.32325], [0, 6611.122500000001], [0, 11678.407500000003], [0, 14219.314750000003]]"
+test_grounding,test_count_00000,counting,umbrella,How many umbrellas can you see?,234349,2,"[[0, 27250.3004], [0, 8614.73455]]"

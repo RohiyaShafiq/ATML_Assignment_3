@@ -1,0 +1,8 @@
+{
+  "n_rollouts": 32000,
+  "len_mismatch_logp_kl": 0,
+  "len_mismatch_tokens_vs_logp": 0,
+  "len_mismatch_ntok_vs_logp": 0,
+  "len_mismatch_attn": 0,
+  "empty_rollouts": 0
+}

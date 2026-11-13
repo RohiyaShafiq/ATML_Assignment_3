@@ -1,0 +1,1410 @@
+[
+ {
+  "pair_id": "vqa_326428000_487076007",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the sign displayed correctly?",
+  "items": [
+   {
+    "qid": 326428000,
+    "image_id": 326428,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 487076007,
+    "image_id": 487076,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_354868001_469242005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is anyone waiting for the train?",
+  "items": [
+   {
+    "qid": 354868001,
+    "image_id": 354868,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 469242005,
+    "image_id": 469242,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_146451002_209664010",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is it raining outside?",
+  "items": [
+   {
+    "qid": 146451002,
+    "image_id": 146451,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 209664010,
+    "image_id": 209664,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_85940007_207538002",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is that a TV?",
+  "items": [
+   {
+    "qid": 85940007,
+    "image_id": 85940,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "1",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no"
+    ]
+   },
+   {
+    "qid": 207538002,
+    "image_id": 207538,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_211177001_509577010",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the beverage in the glass beer?",
+  "items": [
+   {
+    "qid": 211177001,
+    "image_id": 211177,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "yes",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 509577010,
+    "image_id": 509577,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "beer",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_558577000_146813016",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are there sheets on the bed?",
+  "items": [
+   {
+    "qid": 558577000,
+    "image_id": 558577,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 146813016,
+    "image_id": 146813,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_564197006_531092009",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there food wrapped in foil?",
+  "items": [
+   {
+    "qid": 564197006,
+    "image_id": 564197,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes, some of it",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 531092009,
+    "image_id": 531092,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_147518005_124654001",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the shower curtain open?",
+  "items": [
+   {
+    "qid": 147518005,
+    "image_id": 147518,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 124654001,
+    "image_id": 124654,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_466346001_574425009",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are both levels enclosed?",
+  "items": [
+   {
+    "qid": 466346001,
+    "image_id": 466346,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 574425009,
+    "image_id": 574425,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_547155000_509402008",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are the noses of the animals visible?",
+  "items": [
+   {
+    "qid": 547155000,
+    "image_id": 547155,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 509402008,
+    "image_id": 509402,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "1",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_237767002_352080013",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is this a well organized room?",
+  "items": [
+   {
+    "qid": 237767002,
+    "image_id": 237767,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 352080013,
+    "image_id": 352080,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_354559002_60569002",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the woman's lipstick shiny?",
+  "items": [
+   {
+    "qid": 354559002,
+    "image_id": 354559,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "na",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 60569002,
+    "image_id": 60569,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_203275002_486360002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many images are in this image?",
+  "items": [
+   {
+    "qid": 203275002,
+    "image_id": 203275,
+    "target": "4",
+    "canonical": "4",
+    "answers": [
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   {
+    "qid": 486360002,
+    "image_id": 486360,
+    "target": "10",
+    "canonical": "10",
+    "answers": [
+     "12",
+     "10",
+     "10",
+     "10",
+     "10",
+     "10",
+     "8",
+     "10",
+     "10",
+     "10"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_249219000_503667004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "What number is in orange on the bus?",
+  "items": [
+   {
+    "qid": 249219000,
+    "image_id": 249219,
+    "target": "25",
+    "canonical": "25",
+    "answers": [
+     "25",
+     "25",
+     "25",
+     "25",
+     "25",
+     "25",
+     "25",
+     "25",
+     "25",
+     "25"
+    ]
+   },
+   {
+    "qid": 503667004,
+    "image_id": 503667,
+    "target": "54",
+    "canonical": "54",
+    "answers": [
+     "54",
+     "54",
+     "54",
+     "54",
+     "0",
+     "54",
+     "54",
+     "54",
+     "54",
+     "54"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_264654000_210920016",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many suitcases are on the floor?",
+  "items": [
+   {
+    "qid": 264654000,
+    "image_id": 264654,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   },
+   {
+    "qid": 210920016,
+    "image_id": 210920,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_14353000_69668002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many appliances?",
+  "items": [
+   {
+    "qid": 14353000,
+    "image_id": 14353,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 69668002,
+    "image_id": 69668,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "4",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "3",
+     "2",
+     "2"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_445597002_505035009",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How old is this child?",
+  "items": [
+   {
+    "qid": 445597002,
+    "image_id": 445597,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "3",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 505035009,
+    "image_id": 505035,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1 year"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_376859000_91263000",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many rubber gloves are in the kitchen?",
+  "items": [
+   {
+    "qid": 376859000,
+    "image_id": 376859,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 91263000,
+    "image_id": 91263,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_318290001_347233000",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many burners on the range top?",
+  "items": [
+   {
+    "qid": 318290001,
+    "image_id": 318290,
+    "target": "4",
+    "canonical": "4",
+    "answers": [
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "2",
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   {
+    "qid": 347233000,
+    "image_id": 347233,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_192905001_26174001",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many zebras?",
+  "items": [
+   {
+    "qid": 192905001,
+    "image_id": 192905,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "2",
+     "3",
+     "2",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   },
+   {
+    "qid": 26174001,
+    "image_id": 26174,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_22158015_221753010",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the dominant color in this kitchen?",
+  "items": [
+   {
+    "qid": 22158015,
+    "image_id": 22158,
+    "target": "white",
+    "canonical": "white",
+    "answers": [
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white"
+    ]
+   },
+   {
+    "qid": 221753010,
+    "image_id": 221753,
+    "target": "brown",
+    "canonical": "brown",
+    "answers": [
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_554046002_98871004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What animal is pictured?",
+  "items": [
+   {
+    "qid": 554046002,
+    "image_id": 554046,
+    "target": "sheep",
+    "canonical": "sheep",
+    "answers": [
+     "sheep",
+     "sheep",
+     "sheep",
+     "sheep",
+     "lamb",
+     "sheep",
+     "sheep",
+     "sheep",
+     "sheep",
+     "sheep"
+    ]
+   },
+   {
+    "qid": 98871004,
+    "image_id": 98871,
+    "target": "cat",
+    "canonical": "cat",
+    "answers": [
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "kitten",
+     "cat",
+     "cat"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_151267003_246057000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the color of the truck?",
+  "items": [
+   {
+    "qid": 151267003,
+    "image_id": 151267,
+    "target": "red",
+    "canonical": "red",
+    "answers": [
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "maroon",
+     "red",
+     "red"
+    ]
+   },
+   {
+    "qid": 246057000,
+    "image_id": 246057,
+    "target": "white",
+    "canonical": "white",
+    "answers": [
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_424146002_518873002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the TV?",
+  "items": [
+   {
+    "qid": 424146002,
+    "image_id": 424146,
+    "target": "gray",
+    "canonical": "gray",
+    "answers": [
+     "gray",
+     "silver",
+     "gray",
+     "gray",
+     "gray",
+     "gray",
+     "gray",
+     "gray",
+     "gray",
+     "silver"
+    ]
+   },
+   {
+    "qid": 518873002,
+    "image_id": 518873,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_121744001_568560002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the main color?",
+  "items": [
+   {
+    "qid": 121744001,
+    "image_id": 121744,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   },
+   {
+    "qid": 568560002,
+    "image_id": 568560,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "orange",
+     "green",
+     "green",
+     "green",
+     "green"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_238431009_217393001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What kind of animal is this?",
+  "items": [
+   {
+    "qid": 238431009,
+    "image_id": 238431,
+    "target": "horse",
+    "canonical": "horse",
+    "answers": [
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse"
+    ]
+   },
+   {
+    "qid": 217393001,
+    "image_id": 217393,
+    "target": "cow",
+    "canonical": "cow",
+    "answers": [
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow",
+     "cow"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_338552001_90956004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What sport is being shown here?",
+  "items": [
+   {
+    "qid": 338552001,
+    "image_id": 338552,
+    "target": "snowboarding",
+    "canonical": "snowboarding",
+    "answers": [
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "snowboarding",
+     "skiing"
+    ]
+   },
+   {
+    "qid": 90956004,
+    "image_id": 90956,
+    "target": "skiing",
+    "canonical": "skiing",
+    "answers": [
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing",
+     "skiing"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_114884001_412975004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the woman doing?",
+  "items": [
+   {
+    "qid": 114884001,
+    "image_id": 114884,
+    "target": "smoking",
+    "canonical": "smoking",
+    "answers": [
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking",
+     "smoking"
+    ]
+   },
+   {
+    "qid": 412975004,
+    "image_id": 412975,
+    "target": "walking",
+    "canonical": "walking",
+    "answers": [
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking",
+     "walking"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_341132000_179251014",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What of the house is this picture taken?",
+  "items": [
+   {
+    "qid": 341132000,
+    "image_id": 341132,
+    "target": "kitchen",
+    "canonical": "kitchen",
+    "answers": [
+     "kitchen",
+     "kitchen",
+     "dining room",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen"
+    ]
+   },
+   {
+    "qid": 179251014,
+    "image_id": 179251,
+    "target": "bathroom",
+    "canonical": "bathroom",
+    "answers": [
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom",
+     "bathroom"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_68628000_453065000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the person doing?",
+  "items": [
+   {
+    "qid": 68628000,
+    "image_id": 68628,
+    "target": "skateboarding",
+    "canonical": "skateboarding",
+    "answers": [
+     "skateboarding",
+     "flip trick",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding"
+    ]
+   },
+   {
+    "qid": 453065000,
+    "image_id": 453065,
+    "target": "watching tv",
+    "canonical": "watching tv",
+    "answers": [
+     "watching tv",
+     "watching",
+     "watching tv",
+     "watching tv",
+     "watching tv",
+     "watching tv",
+     "watching tv",
+     "watching tv",
+     "sitting",
+     "watching tv"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_221044003_333436004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the jacket?",
+  "items": [
+   {
+    "qid": 221044003,
+    "image_id": 221044,
+    "target": "red",
+    "canonical": "red",
+    "answers": [
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red"
+    ]
+   },
+   {
+    "qid": 333436004,
+    "image_id": 333436,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "blue",
+     "black",
+     "black",
+     "black"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_337275005_78026006",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the man feeding the cat?",
+  "items": [
+   {
+    "qid": 337275005,
+    "image_id": 337275,
+    "target": "apple",
+    "canonical": "apple",
+    "answers": [
+     "apple",
+     "apple",
+     "apple",
+     "apple",
+     "apple",
+     "apple",
+     "apple",
+     "apple",
+     "nectarine",
+     "apple"
+    ]
+   },
+   {
+    "qid": 78026006,
+    "image_id": 78026,
+    "target": "donut",
+    "canonical": "donut",
+    "answers": [
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut",
+     "donut"
+    ]
+   }
+  ]
+ }
+]

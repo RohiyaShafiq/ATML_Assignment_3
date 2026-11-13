@@ -1,0 +1,161 @@
+{
+ "SEED": 6304,
+ "VISION_MODEL": "google/siglip-base-patch16-224",
+ "LM_MODEL": "Qwen/Qwen3-0.6B",
+ "GRID": 14,
+ "NUM_PATCHES": 196,
+ "VIS_DIM": 768,
+ "CONN_HID": 1024,
+ "LM_DIM": 1024,
+ "MICRO_BS": 8,
+ "ACCUM": 2,
+ "EFF_BS": 16,
+ "DRAWS_PER_UPDATE": 8,
+ "DRAWS_PER_MICROBATCH": 4,
+ "WEIGHT_DECAY": 0.01,
+ "CLIP_NORM": 1.0,
+ "WARMUP_FRAC": 0.05,
+ "MIN_LR_FRAC": 0.1,
+ "Q_CAP": 80,
+ "CAPTION_CAP": 64,
+ "ANSWER_CAP": 16,
+ "STAGES": {
+  "1": {
+   "name": "caption_alignment",
+   "conn_lr": 0.001,
+   "lora_lr": null
+  },
+  "2": {
+   "name": "visual_instruction",
+   "conn_lr": 0.0001,
+   "lora_lr": 2e-05
+  },
+  "3": {
+   "name": "natural_vqa_specialize",
+   "conn_lr": 5e-05,
+   "lora_lr": 1e-05
+  }
+ },
+ "LORA": {
+  "r": 16,
+  "alpha": 32,
+  "dropout": 0.05,
+  "bias": "none",
+  "targets": [
+   "q_proj",
+   "k_proj",
+   "v_proj",
+   "o_proj"
+  ]
+ },
+ "STAGE2_MIX": [
+  [
+   "presence",
+   0.5
+  ],
+  [
+   "counting",
+   0.25
+  ],
+  [
+   "caption",
+   0.25
+  ]
+ ],
+ "STAGE3_MIX": [
+  [
+   "vqa",
+   0.7
+  ],
+  [
+   "presence",
+   0.1
+  ],
+  [
+   "counting",
+   0.1
+  ],
+  [
+   "caption",
+   0.1
+  ]
+ ],
+ "N_TRAIN_CAPTION_IMAGES": 6000,
+ "TRAIN_CAPTIONS_PER_IMAGE": 3,
+ "N_DEV_CAPTION_IMAGES": 96,
+ "TRAIN_PRES_POOL": 1500,
+ "TRAIN_COUNT_POOL": 1500,
+ "DEV_GROUND_PAIRS": {
+  "presence": 12,
+  "counting": 12
+ },
+ "TEST_GROUND_PAIRS": {
+  "presence": 32,
+  "counting": 32
+ },
+ "VQA_TRAIN_PAIRS": {
+  "yes/no": 640,
+  "number": 256,
+  "other": 640
+ },
+ "VQA_DEV_PAIRS": {
+  "yes/no": 12,
+  "number": 8,
+  "other": 12
+ },
+ "VQA_TEST_PAIRS": {
+  "yes/no": 36,
+  "number": 24,
+  "other": 36
+ },
+ "VQA_MIN_AGREE": 8,
+ "MIN_ANN_AREA": 400.0,
+ "MAX_COUNT": 4,
+ "CAPTION_Q": "Describe this image briefly.",
+ "SHORT_SUFFIX": "\nAnswer with a single word, number, or short phrase.",
+ "GEN_NEW_TOKENS": 16,
+ "EVAL_BS": 8,
+ "BOOTSTRAP_N": 4000,
+ "CONDITIONS": [
+  "correct",
+  "complementary",
+  "mismatched",
+  "no_image"
+ ],
+ "DEV_CONDITIONS": [
+  "correct",
+  "complementary",
+  "no_image"
+ ],
+ "args": {
+  "sel_dir": "data/selected",
+  "feat_dir": "data/features",
+  "run_dir": "runs/main",
+  "tokens": 196,
+  "resume": false,
+  "smoke": false
+ },
+ "schedule": {
+  "updates": {
+   "1": 2250,
+   "2": 1500,
+   "3": 750
+  },
+  "dev_steps": [
+   0,
+   500,
+   1000,
+   1500,
+   2000,
+   2250,
+   2500,
+   3000,
+   3500,
+   3750,
+   4000,
+   4500
+  ],
+  "ckpt_every": 250
+ },
+ "torch": "2.14.1+cu130"
+}

@@ -1,0 +1,10 @@
+{
+  "scorer": "math-verify (MATH) + MathVista rules (mv_norm in pa3_tts.py)",
+  "versions": {
+    "math-verify": "0.9.0",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3"
+  },
+  "seed": 6304
+}

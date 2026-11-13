@@ -1,0 +1,23 @@
+[
+  {
+    "method": "lora4",
+    "max_abs_diff": 0.000148773193359375,
+    "mean_abs_diff": 7.40786981623387e-06,
+    "top1_agreement": 1.0,
+    "passed": true
+  },
+  {
+    "method": "lora16",
+    "max_abs_diff": 0.00010466575622558594,
+    "mean_abs_diff": 7.0028963818913326e-06,
+    "top1_agreement": 1.0,
+    "passed": true
+  },
+  {
+    "method": "oplora",
+    "max_abs_diff": 0.00012302398681640625,
+    "mean_abs_diff": 7.0785890784463845e-06,
+    "top1_agreement": 1.0,
+    "passed": true
+  }
+]

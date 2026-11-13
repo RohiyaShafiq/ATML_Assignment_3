@@ -1,0 +1,8 @@
+{
+ "rule": "scale = mean||text token embedding||_2 (training prompts+targets) / mean||connector output||_2 at init (training images); fixed scalar buffer",
+ "n_examples": 256,
+ "text_mean_l2": 0.8746779561042786,
+ "connector_mean_l2_before": 15.955412864685059,
+ "scale": 0.0548201393171247,
+ "connector_mean_l2_after": 0.8746780157089233
+}

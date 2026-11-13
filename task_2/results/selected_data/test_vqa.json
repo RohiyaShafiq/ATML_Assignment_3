@@ -1,0 +1,4226 @@
+[
+ {
+  "pair_id": "vqa_12754002_452113006",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there a plaid scarf?",
+  "items": [
+   {
+    "qid": 12754002,
+    "image_id": 12754,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 452113006,
+    "image_id": 452113,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_39115000_429726007",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the boy airborne?",
+  "items": [
+   {
+    "qid": 39115000,
+    "image_id": 39115,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 429726007,
+    "image_id": 429726,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_283147000_486632000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Can you see the sky?",
+  "items": [
+   {
+    "qid": 283147000,
+    "image_id": 283147,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 486632000,
+    "image_id": 486632,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_281696000_110081005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are their headlights on?",
+  "items": [
+   {
+    "qid": 281696000,
+    "image_id": 281696,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 110081005,
+    "image_id": 110081,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_214989006_513417016",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the elephant in the wild?",
+  "items": [
+   {
+    "qid": 214989006,
+    "image_id": 214989,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "maybe",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 513417016,
+    "image_id": 513417,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_71673000_148968009",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Do you see something yellow in the picture?",
+  "items": [
+   {
+    "qid": 71673000,
+    "image_id": 71673,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "banana",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 148968009,
+    "image_id": 148968,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_223241001_276893004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the baby sleeping?",
+  "items": [
+   {
+    "qid": 223241001,
+    "image_id": 223241,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 276893004,
+    "image_id": 276893,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_90646003_257971027",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there any furniture to sit on?",
+  "items": [
+   {
+    "qid": 90646003,
+    "image_id": 90646,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes"
+    ]
+   },
+   {
+    "qid": 257971027,
+    "image_id": 257971,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_297343002_298190005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the sign octagon?",
+  "items": [
+   {
+    "qid": 297343002,
+    "image_id": 297343,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 298190005,
+    "image_id": 298190,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_284851000_236162012",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are there two cats in the picture?",
+  "items": [
+   {
+    "qid": 284851000,
+    "image_id": 284851,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "1",
+     "no"
+    ]
+   },
+   {
+    "qid": 236162012,
+    "image_id": 236162,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_138821001_524373000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is a tall pole covering a part of the animals body?",
+  "items": [
+   {
+    "qid": 138821001,
+    "image_id": 138821,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no"
+    ]
+   },
+   {
+    "qid": 524373000,
+    "image_id": 524373,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_431931000_326667004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the bird in flight?",
+  "items": [
+   {
+    "qid": 431931000,
+    "image_id": 431931,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 326667004,
+    "image_id": 326667,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_105973001_142742004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Has the batter hit the ball?",
+  "items": [
+   {
+    "qid": 105973001,
+    "image_id": 105973,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 142742004,
+    "image_id": 142742,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_480752001_551966006",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is someone sitting on the bench?",
+  "items": [
+   {
+    "qid": 480752001,
+    "image_id": 480752,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 551966006,
+    "image_id": 551966,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_483705000_218678004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are the waves very high?",
+  "items": [
+   {
+    "qid": 483705000,
+    "image_id": 483705,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 218678004,
+    "image_id": 218678,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_162275003_116413005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the pizza hot?",
+  "items": [
+   {
+    "qid": 162275003,
+    "image_id": 162275,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 116413005,
+    "image_id": 116413,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "yes",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_226020002_338683001",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there any graffiti?",
+  "items": [
+   {
+    "qid": 226020002,
+    "image_id": 226020,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 338683001,
+    "image_id": 338683,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_61722001_531581006",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are these boys a fraternity?",
+  "items": [
+   {
+    "qid": 61722001,
+    "image_id": 61722,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "unknown",
+     "no",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 531581006,
+    "image_id": 531581,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_295412002_53635000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is he building a boat?",
+  "items": [
+   {
+    "qid": 295412002,
+    "image_id": 295412,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 53635000,
+    "image_id": 53635,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_456197001_457691000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are there any clouds in the sky?",
+  "items": [
+   {
+    "qid": 456197001,
+    "image_id": 456197,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 457691000,
+    "image_id": 457691,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_433554000_382345000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Does the girl on the right need to fix her swimsuit bottoms?",
+  "items": [
+   {
+    "qid": 433554000,
+    "image_id": 433554,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "no",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 382345000,
+    "image_id": 382345,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_560312007_189744007",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are there any doors in this picture?",
+  "items": [
+   {
+    "qid": 560312007,
+    "image_id": 560312,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 189744007,
+    "image_id": 189744,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_49660000_560677006",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is he hitting the ball?",
+  "items": [
+   {
+    "qid": 49660000,
+    "image_id": 49660,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 560677006,
+    "image_id": 560677,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_401004002_453903000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Can I order beer here?",
+  "items": [
+   {
+    "qid": 401004002,
+    "image_id": 401004,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 453903000,
+    "image_id": 453903,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_375130002_350023007",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is it daytime?",
+  "items": [
+   {
+    "qid": 375130002,
+    "image_id": 375130,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 350023007,
+    "image_id": 350023,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_473118000_246878000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there a basketball hoop in the picture?",
+  "items": [
+   {
+    "qid": 473118000,
+    "image_id": 473118,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 246878000,
+    "image_id": 246878,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "not one",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_412639000_279097000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is there a crane in the photo?",
+  "items": [
+   {
+    "qid": 412639000,
+    "image_id": 412639,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 279097000,
+    "image_id": 279097,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_372113000_429985009",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is it someone's birthday?",
+  "items": [
+   {
+    "qid": 372113000,
+    "image_id": 372113,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 429985009,
+    "image_id": 429985,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_136466002_568205006",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the oven warming up?",
+  "items": [
+   {
+    "qid": 136466002,
+    "image_id": 136466,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 568205006,
+    "image_id": 568205,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_249786001_33900000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is this a ski jumping event?",
+  "items": [
+   {
+    "qid": 249786001,
+    "image_id": 249786,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "maybe",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 33900000,
+    "image_id": 33900,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes",
+     "no",
+     "no",
+     "no",
+     "no",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_251537002_346633000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is this meat?",
+  "items": [
+   {
+    "qid": 251537002,
+    "image_id": 251537,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 346633000,
+    "image_id": 346633,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "no",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_502220004_477805004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Was it taken during  daytime?",
+  "items": [
+   {
+    "qid": 502220004,
+    "image_id": 502220,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 477805004,
+    "image_id": 477805,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_303956002_257084004",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are his feet on the board?",
+  "items": [
+   {
+    "qid": 303956002,
+    "image_id": 303956,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   },
+   {
+    "qid": 257084004,
+    "image_id": 257084,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_269949001_377401000",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Are there any people in this photo?",
+  "items": [
+   {
+    "qid": 269949001,
+    "image_id": 269949,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "1",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "1"
+    ]
+   },
+   {
+    "qid": 377401000,
+    "image_id": 377401,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_389655002_84752005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the door open?",
+  "items": [
+   {
+    "qid": 389655002,
+    "image_id": 389655,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 84752005,
+    "image_id": 84752,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_34141000_57107005",
+  "suite": "natural",
+  "qtype": "yes/no",
+  "question": "Is the giraffe in the wild?",
+  "items": [
+   {
+    "qid": 34141000,
+    "image_id": 34141,
+    "target": "yes",
+    "canonical": "yes",
+    "answers": [
+     "no",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes",
+     "yes"
+    ]
+   },
+   {
+    "qid": 57107005,
+    "image_id": 57107,
+    "target": "no",
+    "canonical": "no",
+    "answers": [
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no",
+     "no"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_279047001_546428000",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many computers are in this picture?",
+  "items": [
+   {
+    "qid": 279047001,
+    "image_id": 279047,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 546428000,
+    "image_id": 546428,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "o",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_323528002_552636006",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many levels are on the bus?",
+  "items": [
+   {
+    "qid": 323528002,
+    "image_id": 323528,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 552636006,
+    "image_id": 552636,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_570179000_23575002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many monitors are there?",
+  "items": [
+   {
+    "qid": 570179000,
+    "image_id": 570179,
+    "target": "6",
+    "canonical": "6",
+    "answers": [
+     "6",
+     "6",
+     "6",
+     "8",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6"
+    ]
+   },
+   {
+    "qid": 23575002,
+    "image_id": 23575,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_448599007_188718004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many zebras are there?",
+  "items": [
+   {
+    "qid": 448599007,
+    "image_id": 448599,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   },
+   {
+    "qid": 188718004,
+    "image_id": 188718,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_163348005_164453003",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many hearts are on the desk?",
+  "items": [
+   {
+    "qid": 163348005,
+    "image_id": 163348,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 164453003,
+    "image_id": 164453,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_186095001_511669019",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many horses in the picture?",
+  "items": [
+   {
+    "qid": 186095001,
+    "image_id": 186095,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 511669019,
+    "image_id": 511669,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_85268005_390190004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many sinks are there?",
+  "items": [
+   {
+    "qid": 85268005,
+    "image_id": 85268,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 390190004,
+    "image_id": 390190,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_69923002_417281003",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many people are wearing ties?",
+  "items": [
+   {
+    "qid": 69923002,
+    "image_id": 69923,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 417281003,
+    "image_id": 417281,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_85376001_143737004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many motorcycles are in the picture?",
+  "items": [
+   {
+    "qid": 85376001,
+    "image_id": 85376,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "green",
+     "1"
+    ]
+   },
+   {
+    "qid": 143737004,
+    "image_id": 143737,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_352748000_503724014",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many sets of tracks?",
+  "items": [
+   {
+    "qid": 352748000,
+    "image_id": 352748,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "3",
+     "2",
+     "2",
+     "2",
+     "2",
+     "3",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 503724014,
+    "image_id": 503724,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_310493002_567340012",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many scissors are there?",
+  "items": [
+   {
+    "qid": 310493002,
+    "image_id": 310493,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 567340012,
+    "image_id": 567340,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_156572000_418684002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many boys are shown?",
+  "items": [
+   {
+    "qid": 156572000,
+    "image_id": 156572,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 418684002,
+    "image_id": 418684,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_157063001_189305010",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many people are wearing hats?",
+  "items": [
+   {
+    "qid": 157063001,
+    "image_id": 157063,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 189305010,
+    "image_id": 189305,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "no",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_281827007_419074023",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many building's are next to the plane?",
+  "items": [
+   {
+    "qid": 281827007,
+    "image_id": 281827,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "1",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 419074023,
+    "image_id": 419074,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_22870001_325374000",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many dogs are in the photo?",
+  "items": [
+   {
+    "qid": 22870001,
+    "image_id": 22870,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   },
+   {
+    "qid": 325374000,
+    "image_id": 325374,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_292649001_192502005",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many skiers are shown?",
+  "items": [
+   {
+    "qid": 292649001,
+    "image_id": 292649,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   },
+   {
+    "qid": 192502005,
+    "image_id": 192502,
+    "target": "4",
+    "canonical": "4",
+    "answers": [
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_392476006_102609008",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many computers are on the desk?",
+  "items": [
+   {
+    "qid": 392476006,
+    "image_id": 392476,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 102609008,
+    "image_id": 102609,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_338191002_19079002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many hydrants are pictured?",
+  "items": [
+   {
+    "qid": 338191002,
+    "image_id": 338191,
+    "target": "9",
+    "canonical": "9",
+    "answers": [
+     "9",
+     "9",
+     "9",
+     "9",
+     "9",
+     "9",
+     "9",
+     "9",
+     "9",
+     "9"
+    ]
+   },
+   {
+    "qid": 19079002,
+    "image_id": 19079,
+    "target": "4",
+    "canonical": "4",
+    "answers": [
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_114504001_560297004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many carton's of egg's are there?",
+  "items": [
+   {
+    "qid": 114504001,
+    "image_id": 114504,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 560297004,
+    "image_id": 560297,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_274779000_531232002",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many cars can be seen?",
+  "items": [
+   {
+    "qid": 274779000,
+    "image_id": 274779,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 531232002,
+    "image_id": 531232,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_414819002_8401007",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many bears are there?",
+  "items": [
+   {
+    "qid": 414819002,
+    "image_id": 414819,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   },
+   {
+    "qid": 8401007,
+    "image_id": 8401,
+    "target": "3",
+    "canonical": "3",
+    "answers": [
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3",
+     "3"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_290177007_351597011",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many monitors?",
+  "items": [
+   {
+    "qid": 290177007,
+    "image_id": 290177,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 351597011,
+    "image_id": 351597,
+    "target": "2",
+    "canonical": "2",
+    "answers": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_231088001_154880001",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many umbrellas are pictured?",
+  "items": [
+   {
+    "qid": 231088001,
+    "image_id": 231088,
+    "target": "6",
+    "canonical": "6",
+    "answers": [
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6",
+     "6"
+    ]
+   },
+   {
+    "qid": 154880001,
+    "image_id": 154880,
+    "target": "4",
+    "canonical": "4",
+    "answers": [
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_25216002_568426004",
+  "suite": "natural",
+  "qtype": "number",
+  "question": "How many utensils?",
+  "items": [
+   {
+    "qid": 25216002,
+    "image_id": 25216,
+    "target": "1",
+    "canonical": "1",
+    "answers": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "qid": 568426004,
+    "image_id": 568426,
+    "target": "0",
+    "canonical": "0",
+    "answers": [
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2",
+     "0"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_163316000_331856002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the color of the court?",
+  "items": [
+   {
+    "qid": 163316000,
+    "image_id": 163316,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   },
+   {
+    "qid": 331856002,
+    "image_id": 331856,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "green and white",
+     "green",
+     "green",
+     "aqua",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_387645003_191342001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color are the plates?",
+  "items": [
+   {
+    "qid": 387645003,
+    "image_id": 387645,
+    "target": "purple",
+    "canonical": "purple",
+    "answers": [
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple",
+     "purple"
+    ]
+   },
+   {
+    "qid": 191342001,
+    "image_id": 191342,
+    "target": "white",
+    "canonical": "white",
+    "answers": [
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_17984000_104758004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What are the animals getting out of?",
+  "items": [
+   {
+    "qid": 17984000,
+    "image_id": 17984,
+    "target": "water",
+    "canonical": "water",
+    "answers": [
+     "water",
+     "water",
+     "water",
+     "water",
+     "pool",
+     "water",
+     "water",
+     "water",
+     "water",
+     "water"
+    ]
+   },
+   {
+    "qid": 104758004,
+    "image_id": 104758,
+    "target": "road",
+    "canonical": "road",
+    "answers": [
+     "road",
+     "road",
+     "way of cars",
+     "road",
+     "road",
+     "road",
+     "road",
+     "road",
+     "road",
+     "road"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_285007000_534733023",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What room is in the picture?",
+  "items": [
+   {
+    "qid": 285007000,
+    "image_id": 285007,
+    "target": "kitchen",
+    "canonical": "kitchen",
+    "answers": [
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen",
+     "kitchen"
+    ]
+   },
+   {
+    "qid": 534733023,
+    "image_id": 534733,
+    "target": "living room",
+    "canonical": "living room",
+    "answers": [
+     "living room",
+     "living room",
+     "living room",
+     "living room",
+     "living room",
+     "living room",
+     "living",
+     "living room",
+     "living room",
+     "living room"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_542549001_433505003",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the items laying on?",
+  "items": [
+   {
+    "qid": 542549001,
+    "image_id": 542549,
+    "target": "bed",
+    "canonical": "bed",
+    "answers": [
+     "bed",
+     "bed",
+     "bed",
+     "bed",
+     "bed",
+     "bed",
+     "bed",
+     "books",
+     "bed",
+     "bed"
+    ]
+   },
+   {
+    "qid": 433505003,
+    "image_id": 433505,
+    "target": "desk",
+    "canonical": "desk",
+    "answers": [
+     "counter",
+     "desk",
+     "desk",
+     "desk",
+     "desk",
+     "desk",
+     "table",
+     "desk",
+     "desk",
+     "desk"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_362737002_575755001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What food is on the plate?",
+  "items": [
+   {
+    "qid": 362737002,
+    "image_id": 362737,
+    "target": "pizza",
+    "canonical": "pizza",
+    "answers": [
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza",
+     "pizza"
+    ]
+   },
+   {
+    "qid": 575755001,
+    "image_id": 575755,
+    "target": "sandwich",
+    "canonical": "sandwich",
+    "answers": [
+     "chicken",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich",
+     "sandwich"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_179102000_46924000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Is this a right hand or left hand?",
+  "items": [
+   {
+    "qid": 179102000,
+    "image_id": 179102,
+    "target": "right",
+    "canonical": "right",
+    "answers": [
+     "right",
+     "right hand",
+     "right",
+     "right",
+     "right",
+     "right",
+     "right",
+     "right",
+     "right",
+     "right"
+    ]
+   },
+   {
+    "qid": 46924000,
+    "image_id": 46924,
+    "target": "left",
+    "canonical": "left",
+    "answers": [
+     "left",
+     "left",
+     "left",
+     "left",
+     "left",
+     "left",
+     "left",
+     "left",
+     "right",
+     "left"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_398580001_274613002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What type of animal is this?",
+  "items": [
+   {
+    "qid": 398580001,
+    "image_id": 398580,
+    "target": "giraffe",
+    "canonical": "giraffe",
+    "answers": [
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe"
+    ]
+   },
+   {
+    "qid": 274613002,
+    "image_id": 274613,
+    "target": "zebra",
+    "canonical": "zebra",
+    "answers": [
+     "zebra",
+     "zebras",
+     "zebra",
+     "giraffe",
+     "zebra",
+     "zebra",
+     "zebra",
+     "zebra",
+     "zebra",
+     "zebra"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_331667000_52238011",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the train roof?",
+  "items": [
+   {
+    "qid": 331667000,
+    "image_id": 331667,
+    "target": "red",
+    "canonical": "red",
+    "answers": [
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red"
+    ]
+   },
+   {
+    "qid": 52238011,
+    "image_id": 52238,
+    "target": "silver",
+    "canonical": "silver",
+    "answers": [
+     "silver",
+     "silver",
+     "silver",
+     "gray",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_249883002_481480006",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is this person riding on?",
+  "items": [
+   {
+    "qid": 249883002,
+    "image_id": 249883,
+    "target": "skateboard",
+    "canonical": "skateboard",
+    "answers": [
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard",
+     "skateboard"
+    ]
+   },
+   {
+    "qid": 481480006,
+    "image_id": 481480,
+    "target": "horse",
+    "canonical": "horse",
+    "answers": [
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse",
+     "horse"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_53081000_541909007",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Which sport is this?",
+  "items": [
+   {
+    "qid": 53081000,
+    "image_id": 53081,
+    "target": "baseball",
+    "canonical": "baseball",
+    "answers": [
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball"
+    ]
+   },
+   {
+    "qid": 541909007,
+    "image_id": 541909,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_572702000_491102001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What animal is shown in this photo?",
+  "items": [
+   {
+    "qid": 572702000,
+    "image_id": 572702,
+    "target": "cat",
+    "canonical": "cat",
+    "answers": [
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "siamese cat",
+     "cat",
+     "cat",
+     "cat",
+     "cat",
+     "cat"
+    ]
+   },
+   {
+    "qid": 491102001,
+    "image_id": 491102,
+    "target": "giraffe",
+    "canonical": "giraffe",
+    "answers": [
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe",
+     "giraffe"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_189248004_52827002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the water?",
+  "items": [
+   {
+    "qid": 189248004,
+    "image_id": 189248,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "blue",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green"
+    ]
+   },
+   {
+    "qid": 52827002,
+    "image_id": 52827,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_65798001_39405004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What game is being played?",
+  "items": [
+   {
+    "qid": 65798001,
+    "image_id": 65798,
+    "target": "baseball",
+    "canonical": "baseball",
+    "answers": [
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball"
+    ]
+   },
+   {
+    "qid": 39405004,
+    "image_id": 39405,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_543547000_196811000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the biggest thing on the road?",
+  "items": [
+   {
+    "qid": 543547000,
+    "image_id": 543547,
+    "target": "elephant",
+    "canonical": "elephant",
+    "answers": [
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant",
+     "elephant"
+    ]
+   },
+   {
+    "qid": 196811000,
+    "image_id": 196811,
+    "target": "bus",
+    "canonical": "bus",
+    "answers": [
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus",
+     "bus"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_485673000_172088000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What game are they playing?",
+  "items": [
+   {
+    "qid": 485673000,
+    "image_id": 485673,
+    "target": "baseball",
+    "canonical": "baseball",
+    "answers": [
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "cricket"
+    ]
+   },
+   {
+    "qid": 172088000,
+    "image_id": 172088,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_514254000_336245010",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color are the shoes?",
+  "items": [
+   {
+    "qid": 514254000,
+    "image_id": 514254,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   },
+   {
+    "qid": 336245010,
+    "image_id": 336245,
+    "target": "brown",
+    "canonical": "brown",
+    "answers": [
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_372464002_305319011",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the boy wearing?",
+  "items": [
+   {
+    "qid": 372464002,
+    "image_id": 372464,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "blue",
+     "green",
+     "green",
+     "clothes"
+    ]
+   },
+   {
+    "qid": 305319011,
+    "image_id": 305319,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "dark colors",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_488697002_333656000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What activity are they enjoying?",
+  "items": [
+   {
+    "qid": 488697002,
+    "image_id": 488697,
+    "target": "frisbee",
+    "canonical": "frisbee",
+    "answers": [
+     "frisbee",
+     "frisbee",
+     "frisbee",
+     "frisbee",
+     "frisbee",
+     "frisbee",
+     "frisbee",
+     "ultimate frisbee",
+     "frisbee",
+     "frisbee"
+    ]
+   },
+   {
+    "qid": 333656000,
+    "image_id": 333656,
+    "target": "surfing",
+    "canonical": "surfing",
+    "answers": [
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing",
+     "surfing"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_327532002_115006003",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What kind of match is this?",
+  "items": [
+   {
+    "qid": 327532002,
+    "image_id": 327532,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "doubles",
+     "tennis",
+     "men's doubles"
+    ]
+   },
+   {
+    "qid": 115006003,
+    "image_id": 115006,
+    "target": "baseball",
+    "canonical": "baseball",
+    "answers": [
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball",
+     "baseball game",
+     "baseball",
+     "baseball",
+     "baseball"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_288062002_142340002",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the seats?",
+  "items": [
+   {
+    "qid": 288062002,
+    "image_id": 288062,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green"
+    ]
+   },
+   {
+    "qid": 142340002,
+    "image_id": 142340,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_66243002_135486005",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the person holding up?",
+  "items": [
+   {
+    "qid": 66243002,
+    "image_id": 66243,
+    "target": "snowboard",
+    "canonical": "snowboard",
+    "answers": [
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard",
+     "snowboard"
+    ]
+   },
+   {
+    "qid": 135486005,
+    "image_id": 135486,
+    "target": "kite",
+    "canonical": "kite",
+    "answers": [
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite",
+     "kite"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_183014000_50829064",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the cup?",
+  "items": [
+   {
+    "qid": 183014000,
+    "image_id": 183014,
+    "target": "clear",
+    "canonical": "clear",
+    "answers": [
+     "clear",
+     "clear",
+     "clear",
+     "clear",
+     "clear",
+     "clear",
+     "colorless",
+     "clear",
+     "clear",
+     "colorless"
+    ]
+   },
+   {
+    "qid": 50829064,
+    "image_id": 50829,
+    "target": "silver",
+    "canonical": "silver",
+    "answers": [
+     "no cup",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_218017002_141492000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is her skirt?",
+  "items": [
+   {
+    "qid": 218017002,
+    "image_id": 218017,
+    "target": "green",
+    "canonical": "green",
+    "answers": [
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green",
+     "green"
+    ]
+   },
+   {
+    "qid": 141492000,
+    "image_id": 141492,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "black",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_55155000_185768000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is the name of the magazine?",
+  "items": [
+   {
+    "qid": 55155000,
+    "image_id": 55155,
+    "target": "fast company",
+    "canonical": "fast company",
+    "answers": [
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company",
+     "fast company"
+    ]
+   },
+   {
+    "qid": 185768000,
+    "image_id": 185768,
+    "target": "daily mirror",
+    "canonical": "daily mirror",
+    "answers": [
+     "daily mirror",
+     "daily mirror",
+     "daily mirror",
+     "daily mirror",
+     "mirror",
+     "daily mirror",
+     "daily mirror",
+     "daily mirror",
+     "daily mirror",
+     "daily mirror"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_342302002_446497016",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What is he doing?",
+  "items": [
+   {
+    "qid": 342302002,
+    "image_id": 342302,
+    "target": "skateboarding",
+    "canonical": "skateboarding",
+    "answers": [
+     "skateboarding",
+     "skateboarding",
+     "trick",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding",
+     "skateboarding"
+    ]
+   },
+   {
+    "qid": 446497016,
+    "image_id": 446497,
+    "target": "flying kite",
+    "canonical": "flying kite",
+    "answers": [
+     "kite flying",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "flying kite",
+     "kiting"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_372577000_423894001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is his headband?",
+  "items": [
+   {
+    "qid": 372577000,
+    "image_id": 372577,
+    "target": "blue",
+    "canonical": "blue",
+    "answers": [
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue",
+     "blue"
+    ]
+   },
+   {
+    "qid": 423894001,
+    "image_id": 423894,
+    "target": "red",
+    "canonical": "red",
+    "answers": [
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red",
+     "red"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_330098002_478858001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Is this bike inside or outside?",
+  "items": [
+   {
+    "qid": 330098002,
+    "image_id": 330098,
+    "target": "inside",
+    "canonical": "inside",
+    "answers": [
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside",
+     "inside"
+    ]
+   },
+   {
+    "qid": 478858001,
+    "image_id": 478858,
+    "target": "outside",
+    "canonical": "outside",
+    "answers": [
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside",
+     "outside"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_492284000_563381004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Is the temperature warm or cool?",
+  "items": [
+   {
+    "qid": 492284000,
+    "image_id": 492284,
+    "target": "cool",
+    "canonical": "cool",
+    "answers": [
+     "cool",
+     "cold",
+     "cool",
+     "cool",
+     "cool",
+     "cool",
+     "cool",
+     "cool",
+     "warm",
+     "cool"
+    ]
+   },
+   {
+    "qid": 563381004,
+    "image_id": 563381,
+    "target": "warm",
+    "canonical": "warm",
+    "answers": [
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm",
+     "warm"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_367848002_100848001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Does it appear to be day or night?",
+  "items": [
+   {
+    "qid": 367848002,
+    "image_id": 367848,
+    "target": "night",
+    "canonical": "night",
+    "answers": [
+     "night",
+     "night",
+     "night",
+     "night",
+     "night",
+     "night",
+     "night",
+     "night",
+     "night",
+     "night"
+    ]
+   },
+   {
+    "qid": 100848001,
+    "image_id": 100848,
+    "target": "day",
+    "canonical": "day",
+    "answers": [
+     "day",
+     "day",
+     "day",
+     "day",
+     "day",
+     "day",
+     "day",
+     "day",
+     "day",
+     "day"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_452274003_44081007",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color hair does this man have?",
+  "items": [
+   {
+    "qid": 452274003,
+    "image_id": 452274,
+    "target": "brown",
+    "canonical": "brown",
+    "answers": [
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown",
+     "brown"
+    ]
+   },
+   {
+    "qid": 44081007,
+    "image_id": 44081,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_437412001_36614001",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color are the napkins?",
+  "items": [
+   {
+    "qid": 437412001,
+    "image_id": 437412,
+    "target": "yellow",
+    "canonical": "yellow",
+    "answers": [
+     "yellow",
+     "yellow",
+     "yellow",
+     "yellow",
+     "yellow",
+     "yellow",
+     "yellow",
+     "orange",
+     "yellow",
+     "yellow"
+    ]
+   },
+   {
+    "qid": 36614001,
+    "image_id": 36614,
+    "target": "white",
+    "canonical": "white",
+    "answers": [
+     "end of table",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white",
+     "white"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_420002005_493905004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What game are they playing?",
+  "items": [
+   {
+    "qid": 420002005,
+    "image_id": 420002,
+    "target": "soccer",
+    "canonical": "soccer",
+    "answers": [
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer",
+     "soccer"
+    ]
+   },
+   {
+    "qid": 493905004,
+    "image_id": 493905,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "running",
+     "tennis"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_19358001_92107004",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What color is the spoon handle?",
+  "items": [
+   {
+    "qid": 19358001,
+    "image_id": 19358,
+    "target": "black",
+    "canonical": "black",
+    "answers": [
+     "black",
+     "black",
+     "black",
+     "blue",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   },
+   {
+    "qid": 92107004,
+    "image_id": 92107,
+    "target": "silver",
+    "canonical": "silver",
+    "answers": [
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver",
+     "silver"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_53949002_463918000",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "What game are they playing?",
+  "items": [
+   {
+    "qid": 53949002,
+    "image_id": 53949,
+    "target": "tennis",
+    "canonical": "tennis",
+    "answers": [
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis",
+     "tennis"
+    ]
+   },
+   {
+    "qid": 463918000,
+    "image_id": 463918,
+    "target": "wii",
+    "canonical": "wii",
+    "answers": [
+     "wii boxing",
+     "wii",
+     "wii",
+     "wii",
+     "wii",
+     "wii",
+     "wii",
+     "boxing",
+     "wii",
+     "wii"
+    ]
+   }
+  ]
+ },
+ {
+  "pair_id": "vqa_547816002_384850006",
+  "suite": "natural",
+  "qtype": "other",
+  "question": "Is the shower curtain open or closed?",
+  "items": [
+   {
+    "qid": 547816002,
+    "image_id": 547816,
+    "target": "open",
+    "canonical": "open",
+    "answers": [
+     "open",
+     "open",
+     "open",
+     "open",
+     "open",
+     "open",
+     "open",
+     "open",
+     "open",
+     "open"
+    ]
+   },
+   {
+    "qid": 384850006,
+    "image_id": 384850,
+    "target": "closed",
+    "canonical": "closed",
+    "answers": [
+     "closed",
+     "closed",
+     "closed",
+     "closed",
+     "closed",
+     "closed",
+     "partially open",
+     "closed",
+     "closed",
+     "closed"
+    ]
+   }
+  ]
+ }
+]

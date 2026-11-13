@@ -1,0 +1,16 @@
+{
+  "agreement": {
+    "early_stop_rate": 0.734375,
+    "incorrect_early_stop_rate": 0.08275,
+    "incorrect_early_stops_recovered_by_fixed32": 0.08006042296072508,
+    "n_incorrect_early": 662,
+    "n_recovered": 53
+  },
+  "quality": {
+    "early_stop_rate": 0.8405,
+    "incorrect_early_stop_rate": 0.148875,
+    "incorrect_early_stops_recovered_by_fixed32": 0.11083123425692695,
+    "n_incorrect_early": 1191,
+    "n_recovered": 132
+  }
+}

@@ -1,0 +1,39 @@
+{
+ "split_isolation": "ok",
+ "feature_shape": [
+  4,
+  196,
+  768
+ ],
+ "param_counts_stage1": {
+  "connector": 1837056,
+  "lora": 0,
+  "frozen_lm": 596049920
+ },
+ "labels_masks_positions": "ok",
+ "no_image_prefix_delta_tokens": 49,
+ "connector_grad_attempts": [
+  {
+   "scale": 65536.0,
+   "loss": 3.6823723316192627,
+   "params_without_grad": 0,
+   "grads_finite": false,
+   "unscaled_grad_norm": NaN
+  },
+  {
+   "scale": 4096.0,
+   "loss": 3.6823723316192627,
+   "params_without_grad": 0,
+   "grads_finite": false,
+   "unscaled_grad_norm": NaN
+  },
+  {
+   "scale": 256.0,
+   "loss": 3.6823723316192627,
+   "params_without_grad": 0,
+   "grads_finite": true,
+   "unscaled_grad_norm": 957.3423485054244
+  }
+ ],
+ "connector_grad_norm": 957.3423485054244
+}

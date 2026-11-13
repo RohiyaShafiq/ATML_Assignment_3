@@ -1,0 +1,12 @@
+{
+  "spearman_length_correct_mean_mixed": -0.04635697614897082,
+  "spearman_length_correct_median_mixed": -0.047659053998580406,
+  "conf_vision_within_rollout_corr_mean": -0.2032396279807501,
+  "conf_vision_within_rollout_corr_median": -0.20602163941721924,
+  "conf_vision_within_rollout_corr_q25_q75": [
+    -0.30248509603266305,
+    -0.08573636233821247
+  ],
+  "corr_correct_minus_incorrect_mean": -0.020974606440893762,
+  "identity_max_abs_err_Ztoken_minus_Z_vs_Cov": 1.6653345369377348e-16
+}

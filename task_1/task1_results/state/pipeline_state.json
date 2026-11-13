@@ -1,0 +1,267 @@
+{
+  "pipeline": {
+    "status": "ALL_DONE",
+    "session": "20261101-171921",
+    "started": "2026-11-01 17:19:26",
+    "gpu": "Tesla T4",
+    "ended": "2026-11-01 17:33:41"
+  },
+  "last_update": "2026-11-01 17:33:41",
+  "stages": {
+    "tests": {
+      "status": "done",
+      "last_session": "20261028-132058",
+      "history": [
+        {
+          "session": "20261028-132058",
+          "start": "2026-10-28 13:21:25",
+          "rc": 0,
+          "seconds": 23
+        }
+      ],
+      "finished": "2026-10-28 13:21:26"
+    },
+    "eval_baseline": {
+      "status": "done",
+      "last_session": "20261028-132058",
+      "history": [
+        {
+          "session": "20261028-132058",
+          "start": "2026-10-28 14:06:02",
+          "rc": 0,
+          "seconds": 2676
+        }
+      ],
+      "finished": "2026-10-28 14:06:02"
+    },
+    "eval_lora4_final": {
+      "status": "done",
+      "last_session": "20261028-132058",
+      "history": [
+        {
+          "session": "20261028-132058",
+          "start": "2026-10-28 14:45:22",
+          "rc": 0,
+          "seconds": 2360
+        }
+      ],
+      "finished": "2026-10-28 14:45:22"
+    },
+    "train_lora16": {
+      "status": "done",
+      "last_session": "20261028-164820",
+      "resumed_from": 625,
+      "history": [
+        {
+          "session": "20261028-164820",
+          "start": "2026-10-28 18:06:58",
+          "how": "RESUME from update 625",
+          "rc": 0,
+          "seconds": 4713
+        }
+      ],
+      "finished": "2026-10-28 18:06:58"
+    },
+    "eval_lora16_final": {
+      "status": "done",
+      "last_session": "20261028-164820",
+      "history": [
+        {
+          "session": "20261028-164820",
+          "start": "2026-10-28 18:45:28",
+          "rc": 0,
+          "seconds": 2309
+        }
+      ],
+      "finished": "2026-10-28 18:45:28"
+    },
+    "train_oplora": {
+      "status": "done",
+      "last_session": "20261029-104307",
+      "resumed_from": 312,
+      "history": [
+        {
+          "session": "20261029-104307",
+          "start": "2026-10-29 13:25:53",
+          "how": "RESUME from update 312",
+          "rc": 0,
+          "seconds": 9761
+        }
+      ],
+      "finished": "2026-10-29 13:25:53"
+    },
+    "merge_check": {
+      "status": "done",
+      "last_session": "20261029-104307",
+      "history": [
+        {
+          "session": "20261029-104307",
+          "start": "2026-10-29 13:26:31",
+          "rc": 0,
+          "seconds": 38
+        }
+      ],
+      "finished": "2026-10-29 13:26:31"
+    },
+    "eval_oplora_final": {
+      "status": "done",
+      "last_session": "20261029-154328",
+      "history": [
+        {
+          "session": "20261029-154328",
+          "start": "2026-10-29 16:20:59",
+          "rc": 0,
+          "seconds": 2245
+        }
+      ],
+      "finished": "2026-10-29 16:20:59"
+    },
+    "last_update": "2026-10-31 06:51:53",
+    "stages": {
+      "train_fullft": {
+        "status": "done",
+        "last_session": "20261031-014316",
+        "resumed_from": 0,
+        "history": [
+          {
+            "session": "20261031-014316",
+            "start": "2026-10-31 05:39:23",
+            "how": "FRESH start",
+            "rc": 0,
+            "seconds": 14159
+          }
+        ],
+        "finished": "2026-10-31 05:39:23"
+      },
+      "eval_fullft_mid": {
+        "status": "done",
+        "last_session": "20261031-014316",
+        "history": [
+          {
+            "session": "20261031-014316",
+            "start": "2026-10-31 06:20:29",
+            "rc": 0,
+            "seconds": 2465
+          }
+        ],
+        "finished": "2026-10-31 06:20:29"
+      },
+      "eval_fullft_final": {
+        "status": "done",
+        "last_session": "20261031-014316",
+        "history": [
+          {
+            "session": "20261031-014316",
+            "start": "2026-10-31 06:51:53",
+            "rc": 0,
+            "seconds": 1884
+          }
+        ],
+        "finished": "2026-10-31 06:51:53"
+      }
+    },
+    "train_fullft": {
+      "status": "FAILED",
+      "last_session": "20261031-072342",
+      "resumed_from": 0,
+      "history": [
+        {
+          "session": "20261031-072342",
+          "start": "2026-10-31 07:26:50",
+          "how": "FRESH start",
+          "rc": 1,
+          "seconds": 186
+        },
+        {
+          "session": "20261031-072342",
+          "start": "2026-10-31 07:30:09",
+          "how": "FRESH start",
+          "rc": 1,
+          "seconds": 194
+        },
+        {
+          "session": "20261031-072342",
+          "start": "2026-10-31 07:33:23",
+          "how": "FRESH start",
+          "rc": 1,
+          "seconds": 189
+        }
+      ]
+    },
+    "diagnostics": {
+      "status": "done",
+      "last_session": "20261101-171921",
+      "history": [
+        {
+          "session": "20261031-154622",
+          "start": "2026-10-31 15:48:59",
+          "rc": 1,
+          "seconds": 151
+        },
+        {
+          "session": "20261031-154622",
+          "start": "2026-10-31 15:49:32",
+          "rc": 1,
+          "seconds": 32
+        },
+        {
+          "session": "20261031-154622",
+          "start": "2026-10-31 15:50:00",
+          "rc": 1,
+          "seconds": 28
+        },
+        {
+          "session": "20261101-162503",
+          "start": "2026-11-01 16:27:33",
+          "rc": 1,
+          "seconds": 145
+        },
+        {
+          "session": "20261101-162503",
+          "start": "2026-11-01 16:27:59",
+          "rc": 1,
+          "seconds": 26
+        },
+        {
+          "session": "20261101-162503",
+          "start": "2026-11-01 16:28:19",
+          "rc": 1,
+          "seconds": 20
+        },
+        {
+          "session": "20261101-171921",
+          "start": "2026-11-01 17:22:36",
+          "rc": 0,
+          "seconds": 190
+        }
+      ],
+      "finished": "2026-11-01 17:22:36"
+    },
+    "qualitative": {
+      "status": "done",
+      "last_session": "20261101-171921",
+      "history": [
+        {
+          "session": "20261101-171921",
+          "start": "2026-11-01 17:33:25",
+          "rc": 0,
+          "seconds": 648
+        }
+      ],
+      "finished": "2026-11-01 17:33:25"
+    },
+    "analyze": {
+      "status": "done",
+      "last_session": "20261101-171921",
+      "history": [
+        {
+          "session": "20261101-171921",
+          "start": "2026-11-01 17:33:41",
+          "rc": 0,
+          "seconds": 16
+        }
+      ],
+      "finished": "2026-11-01 17:33:41"
+    }
+  }
+}

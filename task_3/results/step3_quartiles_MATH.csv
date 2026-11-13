@@ -1,0 +1,4 @@
+signal,mean_top_minus_bottom_all,mean_top_minus_bottom_mixed,n_questions,n_mixed
+short(-length),0.05775,0.09871794871794871,1000,585
+logp,0.06775,0.11581196581196582,1000,585
+cert,0.11525,0.197008547008547,1000,585

@@ -1,0 +1,53 @@
+{
+  "transitions_initial_to_revised": {
+    "w2c": 3,
+    "c2w": 0,
+    "c2c": 30,
+    "w2w": 17
+  },
+  "paired_bootstrap_diff_mean_lo_hi": {
+    "parallel_sc_minus_single": [
+      -0.02,
+      -0.12,
+      0.06
+    ],
+    "refine_minus_single": [
+      0.0,
+      -0.1,
+      0.1
+    ],
+    "parallel_sc_minus_refine": [
+      -0.02,
+      -0.06,
+      0.0
+    ]
+  },
+  "cases": {
+    "wrong_to_correct": [
+      {
+        "qid": "test:639",
+        "gold": "-9",
+        "initial": "4",
+        "revised": "-9",
+        "revision_excerpt": "Let's carefully review the solution step-by-step to ensure accuracy.\n\nGiven:\n\\[ f(x) = 2x - 3 \\]\n\\[ g(f(x)) = 5 - 4x \\]\n\nWe need to find \\( g(4) \\). To do this, we need to determine the value of \\( x \\) such that \\( f(x) = 4 \\).\n\n1. Set \\( f(x) = 4 \\):\n\\[ 2x - 3 = 4 \\]\n\n2. Solve for \\( x \\):\n\\[ 2x - 3 = 4 \\]\n\\[ 2x = 4 + 3 \\]\n\\[ 2x = 7 \\]\n\\[ x = \\frac{7}{2} \\]\n\nSo, \\( f\\left(\\frac{7}{2}\\right) = 4 \\). This means:\n\\[ g(4) = g\\left(f\\left(\\frac{7}{2}\\right)\\right) \\]\n\nSince \\( g(f(x)) = 5 - 4x \\), we substitute \\( x = \\frac{7}{2} \\) into this function:\n\\[ g\\left(f\\left(\\frac{7}{2}\\right)\\right) ="
+      },
+      {
+        "qid": "test:3285",
+        "gold": "0",
+        "initial": null,
+        "revised": "0",
+        "revision_excerpt": "Let's carefully review the steps and ensure there are no errors. We'll start by converting the binary strings to decimal, sum them, and then interpret the result as a binary number. Finally, we'll convert the binary sum back to decimal to find the difference \\(n - m\\).\n\n### Step 1: Convert the strings to decimal\nThe first string is \\(11001010100101011_2\\).\n\n\\[\n11001010100101011_2 = 1 \\cdot 2^{10} + 1 \\cdot 2^9 + 0 \\cdot 2^8 + 0 \\cdot 2^7 + 1 \\cdot 2^6 + 0 \\cdot 2^5 + 1 \\cdot 2^4 + 0 \\cdot 2^3 + 1 \\cdot 2^2 + 0 \\cdot 2^1 + 1 \\cdot 2^0 + 1 \\cdot 2^{-1}\n\\]\n\nSince \\(2^{-1}\\) is negligible, we can "
+      },
+      {
+        "qid": "test:3572",
+        "gold": "22",
+        "initial": null,
+        "revised": "22",
+        "revision_excerpt": "Let's carefully review the solution step-by-step to identify and correct any errors.\n\nWe start with the equation:\n\\[\n9a + 3b + c = 16c + 4b + a\n\\]\nRearranging terms, we get:\n\\[\n9a + 3b + c - 16c - 4b - a = 0 \\implies 8a - b - 15c = 0 \\implies 8a - b = 15c\n\\]\nWe need to find digits \\(a, b, c\\) such that \\(0 \\leq a, b, c \\leq 2\\).\n\nLet's test possible values for \\(c\\):\n\n1. If \\(c = 0\\):\n   \\[\n   8a - b = 0 \\implies b = 8a\n   \\]\n   Since \\(b\\) must be a digit in base 3 (i.e., \\(0 \\leq b \\leq 2\\)), the only possible value for \\(a\\) is 0, which gives \\(b = 0\\). Thus, \\(a = 0, b = 0, c = 0\\) is a so"
+      }
+    ],
+    "correct_to_wrong": []
+  },
+  "note": "initial response is shared and charged to both parallel and refine",
+  "model_revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1"
+}
